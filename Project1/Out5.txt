@@ -1,0 +1,19 @@
+ ----jGRASP exec: java Project1
+Enter hourly pay rate in dollars and cents --> 18.25
+Enter number of hours and tenths worked --> 40.5
+
+                PAYROLL REPORT
+Rate:                                   18.25
+Hours:                                  40.5
+
+Gross pay:                             739.13
+Federal Tax:                           184.78
+State Tax:                              67.08
+FICA:                                   56.54
+Net Pay:                               430.73
+
+Employer's FICA contribution:           56.54
+Employer's UEI and DI contribution:     14.78
+Cost to Employer:                      810.45
+
+ ----jGRASP: operation complete.

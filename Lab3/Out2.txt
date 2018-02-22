@@ -1,0 +1,19 @@
+ ----jGRASP exec: java Lab3
+Enter an integer value with no more than 3 digits: 12
+The number 12 divides itself
+
+Enter an integer resistance value between 1 and 1000 ohms: 3
+Enter an integer resistance value between 1 and 1000 ohms: 3
+Enter an integer resistance value between 1 and 1000 ohms: 2
+Enter an integer resistance value between 1 and 1000 ohms: 4
+Enter an integer resistance value between 1 and 1000 ohms: 10
+
+To find total resistance we solve the equation for Rt:
+
+1/Rt = 1/R1 + 1/R2 + 1/R3 + 1/R4 + 1/R5
+1/Rt = 1/3 + 1/3 + 1/2 + 1/4 + 1/10
+1/Rt = 1.517
+  Rt = 1/1.517
+  Rt = 0.659
+
+ ----jGRASP: operation complete.

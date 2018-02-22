@@ -121,6 +121,6 @@ public class Lab3
                          res1, res2, res3, res4, res5);
       System.out.printf("1/Rt = %.3f\n", leftSideEquation);
       System.out.printf("  Rt = 1/%.3f\n", leftSideEquation);
-      System.out.printf("  Rt = %.3f\n", totalResistance);
+      System.out.printf("  Rt = %.3f ohms\n", totalResistance);
    }
 }

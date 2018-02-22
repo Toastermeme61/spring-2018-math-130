@@ -14,6 +14,6 @@ To find total resistance we solve the equation for Rt:
 1/Rt = 1/1000 + 1/1 + 1/123 + 1/23 + 1/5
 1/Rt = 1.253
   Rt = 1/1.253
-  Rt = 0.798
+  Rt = 0.798 ohms
 
  ----jGRASP: operation complete.

@@ -1,0 +1,56 @@
+ ----jGRASP exec: java Project2
+Enter hourly pay rate in dollars and cents --> 27.16
+Enter number of hours and tenths worked --> 37.9
+
+ ----jGRASP exec: java Project2
+Enter hourly pay rate in dollars and cents --> 27.16
+Enter number of hours and tenths worked --> 37.9
+
+Rate:                                   27.16
+Hours:                                  37.9
+
+Gross pay:                            1029.36
+Federal Tax:                           257.34
+State Tax:                              93.41
+FICA:                                   78.75
+Net Pay:                               599.86
+
+Employer's FICA contribution:           78.75
+Employer's UEI and DI contribution:     20.59
+Cost to Employer:                     1128.70
+
+Enter hourly pay rate in dollars and cents --> 19.93
+Enter number of hours and tenths worked --> 42.7
+
+Rate:                                   19.93
+Hours:                                  42.7
+
+Gross pay:                             877.92   includes overtime
+Federal Tax:                           219.48
+State Tax:                              79.67
+FICA:                                   67.16
+Net Pay:                               511.61
+
+Employer's FICA contribution:           67.16
+Employer's UEI and DI contribution:     17.56
+Cost to Employer:                      962.64
+
+Enter hourly pay rate in dollars and cents --> 13.00
+Enter number of hours and tenths worked --> 5.00
+
+Rate:                                   13.00
+Hours:                                   5.0
+
+Gross pay:                              65.00
+Federal Tax:                            16.25
+State Tax:                               5.90
+FICA:                                    4.97
+Net Pay:                                37.88
+
+Employer's FICA contribution:            4.97
+Employer's UEI and DI contribution:      1.30
+Cost to Employer:                       71.27
+
+Enter hourly pay rate in dollars and cents --> 0
+
+ ----jGRASP: operation complete.

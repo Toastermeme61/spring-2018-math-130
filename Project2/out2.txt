@@ -1,0 +1,68 @@
+ ----jGRASP exec: java Project2
+Enter hourly pay rate in dollars and cents --> 12.45
+Enter number of hours and tenths worked --> 43
+
+Rate:                                   12.45
+Hours:                                  43.0
+
+Gross pay:                             554.03   includes overtime
+Federal Tax:                           138.51
+State Tax:                              50.28
+FICA:                                   42.38
+Net Pay:                               322.86
+
+Employer's FICA contribution:           42.38
+Employer's UEI and DI contribution:     11.08
+Cost to Employer:                      607.49
+
+Enter hourly pay rate in dollars and cents --> 12.56
+Enter number of hours and tenths worked --> 12
+
+Rate:                                   12.56
+Hours:                                  12.0
+
+Gross pay:                             150.72
+Federal Tax:                            37.68
+State Tax:                              13.68
+FICA:                                   11.53
+Net Pay:                                87.83
+
+Employer's FICA contribution:           11.53
+Employer's UEI and DI contribution:      3.01
+Cost to Employer:                      165.26
+
+Enter hourly pay rate in dollars and cents --> 23.2
+Enter number of hours and tenths worked --> 1
+
+Rate:                                   23.20
+Hours:                                   1.0
+
+Gross pay:                              23.20
+Federal Tax:                             5.80
+State Tax:                               2.11
+FICA:                                    1.77
+Net Pay:                                13.52
+
+Employer's FICA contribution:            1.77
+Employer's UEI and DI contribution:      0.46
+Cost to Employer:                       25.44
+
+Enter hourly pay rate in dollars and cents --> 43.78
+Enter number of hours and tenths worked --> 13.5
+
+Rate:                                   43.78
+Hours:                                  13.5
+
+Gross pay:                             591.03
+Federal Tax:                           147.76
+State Tax:                              53.64
+FICA:                                   45.21
+Net Pay:                               344.42
+
+Employer's FICA contribution:           45.21
+Employer's UEI and DI contribution:     11.82
+Cost to Employer:                      648.06
+
+Enter hourly pay rate in dollars and cents --> 0
+
+ ----jGRASP: operation complete.
